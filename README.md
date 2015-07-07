@@ -1,1 +1,1 @@
-Create my personal website using rubyonrails.
+Create my personal website using ruby on rails.
